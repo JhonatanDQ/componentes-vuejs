@@ -4,7 +4,6 @@ let counter = ref(0)
 
 function add(){
     counter.value++
-    console.log('Hola xd' , counter)
 }
 </script>
 
